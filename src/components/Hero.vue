@@ -1,5 +1,5 @@
 <template>
-  <div class="hero p-5 m-5 bg-light rounded-3 text-start w-50">
+  <div class="hero p-5 mt-5 bg-light rounded-3 text-start w-50">
     <h1 class="display-5 fw-bold">This is a Hero.</h1>
     <p class="fs-4">
       Using a series of utilities, you can create this jumbotron, just like the
